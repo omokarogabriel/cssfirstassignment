@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: black;
+}
+
+.container {
+    background-color: grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 450px;
+    margin: 150px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    /* gap: 50px; */
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.headings {
+    text-align: center;
+    background-color: pink;
+    height: 50px;
+    top: 20px;
+}
+p {
+    /* letter-spacing: 2px; */
+    font-size: larger;
+    font-weight: 400;
+}
