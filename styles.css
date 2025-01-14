@@ -38,9 +38,10 @@ body {
   text-align: center;
   background-color: rgb(226, 23, 84);
   height: 60px;
-  top: 20px;
+  /* top: 20px;qq */
   position: absolute;
-  top: -20px;width: 400px;
+  top: -20px;
+  width: 400px;
   border-radius: 3px;
   font-size: x-large;
 }
